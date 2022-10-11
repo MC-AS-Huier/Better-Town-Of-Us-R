@@ -11,6 +11,7 @@ An Among Us mod that adds a bunch of roles, modifiers and game settings
 
 | <center> Among Us - Version </center> | <center> Town of Us - Version </center> | <center> Mod - Version </center> | <center> [Mod - Link](https://github.com/VincentVision/BetterTownOfUs/releases) </center> |
 |----------------|---------------|---------------|---------------|
+| 2022.8.23 | 3.3.2 | 2.1.16-dev2 | [Download](https://github.com/operrochek/Better-Town-Of-Us-R/releases/tag/2.1.16-dev2)
 | 2022.8.23 | 3.3.2 | 2.1.16-dev1 | [Download](https://github.com/operrochek/Better-Town-Of-Us-R/releases/tag/2.1.16-dev1)
 
 </center>
