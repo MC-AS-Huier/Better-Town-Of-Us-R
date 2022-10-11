@@ -1,4 +1,4 @@
-## *Note: This repository is an unofficial continuation of Better Town of Us due to the original repository being discontinued.*
+## *Note: This repository is an unofficial continuation of Better Town of Us due to the original repository being deleted.*
 
 ![LOGO](./Images/TOU-logo.png)
 
